@@ -10,8 +10,11 @@ Due to the presence of numerical data in the log records (such as IP addresses a
 Technologies used in this project:
 
 -Large Language Models (LLM)
+
 -Retrieval-Augmented Generation (RAG)
+
 -Vector similarity search and querying with FAISS
+
 -Data creation, cleaning, and preprocessing
 
 
