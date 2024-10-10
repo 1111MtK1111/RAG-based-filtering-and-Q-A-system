@@ -15,6 +15,4 @@ Technologies used in this project:
 -Data creation, cleaning, and preprocessing
 
 
-Note: The file named Web_Traffic_Log_File.ipynb contains the necessary code to generate the sample web traffic log file.
-
-      The file named Q&A_system_based_on_RAG_github.ipynb is the main file that contains the project's code.
+Note: The file named Web_Traffic_Log_File.ipynb contains the necessary code to generate the sample web traffic log file. The file named Q&A_system_based_on_RAG_github.ipynb is the main file that contains the project's code.
